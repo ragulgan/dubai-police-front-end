@@ -1,0 +1,491 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`TeamsTable matches snapshot for athlete table 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiTableContainer-root css-12p80v-MuiTableContainer-root"
+      style="opacity: 1; transition: opacity 1000ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <table
+        aria-label="team table"
+        class="MuiTable-root MuiTable-stickyHeader css-pvu7mv-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-1a7iywq-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-1xtozoh-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-6dp0uf-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-13yarkw"
+              >
+                Name
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-17d1oue-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Role
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-zm1cxl-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Email
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-zm1cxl-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Performance Level
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-rb0tlc-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Actions
+              </div>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-gmh7jj-MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root css-suyqca-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1pida0o-MuiTableCell-root"
+            >
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-e34boy-MuiAvatar-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-1mo2pzk-MuiSvgIcon-root-MuiAvatar-fallback"
+                  data-testid="PersonIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                  />
+                </svg>
+              </div>
+              <p
+                aria-label="Athlete John  Doe"
+                class="MuiTypography-root MuiTypography-body1 dubai-regular text-capitalize css-wzek5f-MuiTypography-root"
+                data-mui-internal-clone-element="true"
+              >
+                Athlete John  Doe
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-dbedc9-MuiTableCell-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 dubai-regular css-ay3alf-MuiTypography-root"
+              >
+                1995-01-01
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-dbedc9-MuiTableCell-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 dubai-regular css-ay3alf-MuiTypography-root"
+              >
+                john.doe@example.com
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-dbedc9-MuiTableCell-root"
+            >
+              <div
+                data-testid="athlete-performance-chip"
+              >
+                High
+              </div>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ejce75-MuiTableCell-root"
+            >
+              <button
+                aria-label="view"
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-3i12so-MuiButtonBase-root-MuiIconButton-root"
+                data-mui-internal-clone-element="true"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1quagib-MuiSvgIcon-root"
+                  data-testid="VisibilityIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5M12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5m0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"
+                  />
+                </svg>
+              </button>
+              <button
+                aria-label="edit"
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1nwlnd-MuiButtonBase-root-MuiIconButton-root"
+                data-mui-internal-clone-element="true"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                  data-testid="EditIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.996.996 0 0 0-1.41 0l-1.83 1.83 3.75 3.75z"
+                  />
+                </svg>
+              </button>
+              <div
+                data-testid="delete-dialog"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div
+        data-testid="pagination-component"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TeamsTable matches snapshot for empty data 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiTableContainer-root css-12p80v-MuiTableContainer-root"
+      style="opacity: 1; transition: opacity 1000ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <table
+        aria-label="team table"
+        class="MuiTable-root MuiTable-stickyHeader css-pvu7mv-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-1a7iywq-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-1xtozoh-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-6dp0uf-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-13yarkw"
+              >
+                Name
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-17d1oue-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Role
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-zm1cxl-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Email
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-zm1cxl-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Performance Level
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-rb0tlc-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Actions
+              </div>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-gmh7jj-MuiTableBody-root"
+        />
+      </table>
+      <div
+        data-testid="pagination-component"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TeamsTable matches snapshot for loading state 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiBox-root css-949gln"
+    >
+      <div
+        data-testid="table-skeleton"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`TeamsTable matches snapshot for staff table 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiTableContainer-root css-12p80v-MuiTableContainer-root"
+      style="opacity: 1; transition: opacity 1000ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+    >
+      <table
+        aria-label="team table"
+        class="MuiTable-root MuiTable-stickyHeader css-pvu7mv-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-1a7iywq-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-1xtozoh-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-6dp0uf-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-13yarkw"
+              >
+                Name
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-17d1oue-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Role
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-zm1cxl-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Email
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-zm1cxl-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Contract Start Date
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-zm1cxl-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Contract End Date
+              </div>
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader MuiTableCell-alignLeft MuiTableCell-sizeMedium bukra-semi-bold css-rb0tlc-MuiTableCell-root"
+              scope="col"
+            >
+              <div
+                class="MuiBox-root css-1jjwf1f"
+              >
+                Actions
+              </div>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-gmh7jj-MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root css-suyqca-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1pida0o-MuiTableCell-root"
+            >
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-e34boy-MuiAvatar-root"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-1mo2pzk-MuiSvgIcon-root-MuiAvatar-fallback"
+                  data-testid="PersonIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                  />
+                </svg>
+              </div>
+              <p
+                aria-label="Coach Jane  Smith"
+                class="MuiTypography-root MuiTypography-body1 dubai-regular text-capitalize css-wzek5f-MuiTypography-root"
+                data-mui-internal-clone-element="true"
+              >
+                Coach Jane  Smith
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-dbedc9-MuiTableCell-root"
+            >
+              <div
+                data-testid="staff-role-chip"
+              >
+                Role not found
+              </div>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-dbedc9-MuiTableCell-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 dubai-regular css-ay3alf-MuiTypography-root"
+              >
+                jane.smith@example.com
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-dbedc9-MuiTableCell-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 dubai-regular css-ay3alf-MuiTypography-root"
+              >
+                2023-01-01
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-dbedc9-MuiTableCell-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 dubai-regular css-ay3alf-MuiTypography-root"
+              >
+                2024-01-01
+              </p>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ejce75-MuiTableCell-root"
+            >
+              <button
+                aria-label="view"
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-3i12so-MuiButtonBase-root-MuiIconButton-root"
+                data-mui-internal-clone-element="true"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1quagib-MuiSvgIcon-root"
+                  data-testid="VisibilityIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5M12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5m0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"
+                  />
+                </svg>
+              </button>
+              <button
+                aria-label="edit"
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1nwlnd-MuiButtonBase-root-MuiIconButton-root"
+                data-mui-internal-clone-element="true"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                  data-testid="EditIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.996.996 0 0 0-1.41 0l-1.83 1.83 3.75 3.75z"
+                  />
+                </svg>
+              </button>
+              <div
+                data-testid="delete-dialog"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <div
+        data-testid="pagination-component"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

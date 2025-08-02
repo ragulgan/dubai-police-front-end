@@ -1,0 +1,109 @@
+@font-face {
+  font-family: dubai-med;
+  src: url(../pages/fonts/Dubai-Medium.ttf);
+}
+
+@font-face {
+  font-family: bukra;
+  src: url(../pages/fonts/29LTBukra-Medium.woff);
+}
+
+.custom-datepicker {
+  margin-bottom: "1.5rem";
+  height: "40px";
+  border-radius: 4px;
+
+  & .MuiOutlinedInput-root {
+    background-color: #00875508;
+
+    & fieldset {
+      border-color: #40a377;
+    }
+
+    &:hover fieldset {
+      border-color: #40a377;
+    }
+
+    &.Mui-focused fieldset {
+      border-color: #40a377;
+    }
+  }
+
+  & input {
+    font-family: dubai-med;
+    padding-left: 10px;
+    color: #000000;
+    height: 8px;
+  }
+
+  & input::placeholder {
+    color: #8d9093;
+    opacity: 1;
+  }
+
+  & .Mui-error {
+    & fieldset {
+      border-color: #d32f2f;
+    }
+  }
+}
+
+.custom-datepicker-disabled {
+  margin-bottom: "1.5rem";
+  height: "40px";
+  border-radius: 4px;
+
+  & .MuiOutlinedInput-root {
+    background-color: rgba(241, 235, 156, 0.2);
+
+    & fieldset {
+      border-color: rgba(241, 235, 156, 0.2);
+    }
+
+    &:hover fieldset {
+      border-color: rgba(241, 235, 156, 0.2);
+    }
+
+    &.Mui-focused fieldset {
+      border-color: rgba(241, 235, 156, 0.2);
+    }
+  }
+
+  & input {
+    font-family: dubai-med;
+    padding-left: 10px;
+    color: #000000;
+    height: 8px;
+  }
+
+  & input::placeholder {
+    color: #8d9093;
+    opacity: 1;
+  }
+
+  & .Mui-error {
+    & fieldset {
+      border-color: #d32f2f;
+    }
+  }
+}
+
+.typography {
+  color: #000000;
+  font-family: bukra;
+  line-height: 16.8px;
+  text-align: left;
+  position: relative;
+
+  .asterisk {
+    color: #e4002b;
+    width: 8px;
+    height: 8px;
+    top: 2px;
+    left: 83px;
+    padding: 0px 0.44px 0px 0.44px;
+    gap: 0px;
+    opacity: 1;
+    content: "*";
+  }
+}

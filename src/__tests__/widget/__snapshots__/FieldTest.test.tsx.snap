@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`FieldTest matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-1gid5jm"
+  >
+    <div
+      class="MuiBox-root css-9xkke2"
+    >
+      <div
+        class="MuiBox-root css-i6y5j7"
+      >
+        <svg
+          data-testid="routine-svg"
+        />
+      </div>
+      <div
+        class="MuiBox-root css-1isemmb"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle1 bukra css-fvvkp3-MuiTypography-root"
+        >
+          Field Test
+        </h6>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Speed Test
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          12.5
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        >
+          (sec)
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Agility Test
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          --
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        >
+          (points)
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Stamina Test
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          --
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`FitnessTest matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-1gid5jm"
+  >
+    <div
+      class="MuiBox-root css-9xkke2"
+    >
+      <div
+        class="MuiBox-root css-1gnobmx"
+      >
+        <svg
+          data-testid="report-card-svg"
+        />
+      </div>
+      <div
+        class="MuiBox-root css-1isemmb"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle1 bukra css-fvvkp3-MuiTypography-root"
+        >
+          Military Readiness Test
+        </h6>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Push-ups
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1mxrmkf-MuiTypography-root"
+        >
+          25
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-p3lo9n-MuiTypography-root"
+        >
+          (reps)
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Pull-ups
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1mxrmkf-MuiTypography-root"
+        >
+          --
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-p3lo9n-MuiTypography-root"
+        >
+          (count)
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Sit-ups
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1mxrmkf-MuiTypography-root"
+        >
+          --
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-p3lo9n-MuiTypography-root"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Running
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1mxrmkf-MuiTypography-root"
+        >
+          15:30
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-p3lo9n-MuiTypography-root"
+        >
+          (min:sec)
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

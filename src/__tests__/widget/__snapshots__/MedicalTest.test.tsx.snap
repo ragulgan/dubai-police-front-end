@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`MedicalTest matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-1gid5jm"
+  >
+    <div
+      class="MuiBox-root css-9xkke2"
+    >
+      <div
+        class="MuiBox-root css-1l52s3z"
+      >
+        <svg
+          data-testid="test-pad-svg"
+        />
+      </div>
+      <div
+        class="MuiBox-root css-1isemmb"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle1 bukra css-fvvkp3-MuiTypography-root"
+        >
+          Medical Test
+        </h6>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Blood Pressure
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          120/80
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        >
+          (mmHg)
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Heart Rate
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          --
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        >
+          (bpm)
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Body Temperature
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          --
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        >
+          --
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Blood Sugar
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          95
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        >
+          (mg/dL)
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-josoz2-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-md-5 css-k3f0g4-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-145nxz8-MuiTypography-root"
+        >
+          Cholesterol
+        </span>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-md-7 css-uqwprf-MuiGrid-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-dfbt80-MuiTypography-root"
+        >
+          180
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-caption dubai-med css-1r9r6xz-MuiTypography-root"
+        >
+          (mg/dL)
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,225 @@
+@font-face {
+  font-family: dubai-med;
+  src: url(fonts/Dubai-Medium.ttf);
+}
+
+@font-face {
+  font-family: bukra;
+  src: url(fonts/29LTBukra-Medium.woff);
+}
+
+.staff-typography {
+  color: #000000;
+  font-family: bukra;
+  line-height: 16.8px;
+  text-align: left;
+  position: relative;
+
+  .asterisk {
+    color: #e4002b;
+    width: 8px;
+    height: 8px;
+    top: 2px;
+    left: 83px;
+    padding: 0px 0.44px 0px 0.44px;
+    gap: 0px;
+    opacity: 1;
+    content: "*";
+  }
+}
+
+.error-message {
+  color: #d32f2f;
+  font-family: dubai-med;
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  line-height: 27.01px;
+  text-align: left;
+}
+
+.cancel-button {
+  height: 48px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0.01px;
+  font-size: 16px !important;
+}
+
+.avatarContainer {
+  position: relative !important;
+  display: flex !important;
+
+  .avatar {
+    width: 81px;
+    height: 81px;
+    opacity: 1;
+    border-radius: 50px !important;
+  }
+
+  .avatar-hero {
+    width: 81px;
+    height: 81px;
+    opacity: 1;
+    border-radius: 10px !important;
+  }
+
+  .iconButton {
+    width: 30px !important;
+    height: 30px !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    background-color: #008755 !important;
+    color: white;
+
+    .cameraIcon {
+      width: 18px;
+      height: 16px;
+    }
+  }
+}
+
+.hero-avatarContainer {
+  position: relative !important;
+  display: flex !important;
+
+  .avatar {
+    width: 81px;
+    height: 81px;
+    opacity: 1;
+    border-radius: 8px !important;
+    fill: #000000;
+  }
+
+  .iconButton {
+    width: 30px !important;
+    height: 30px !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    background-color: #008755 !important;
+    color: white;
+    top: 54px;
+    left: 60px;
+    gap: 0px;
+
+    .cameraIcon {
+      width: 18px;
+      height: 16px;
+    }
+  }
+}
+
+.typography-profileImage {
+  font-family: bukra !important;
+  font-size: 16px;
+  font-weight: 600 !important;
+  line-height: 19.2px;
+  text-align: left;
+  color: #58585b;
+}
+
+.typography-upload {
+  font-family: bukra !important;
+  font-size: 16px;
+  font-weight: 500 !important;
+  line-height: 19.2px;
+  text-align: left;
+  color: #d32f2f;
+}
+
+// styles.scss
+
+.upload-container {
+  color: #58585b;
+  padding: 0.5rem;
+  display: inline-block;
+  border: 1px solid #008755;
+  border-radius: 4px;
+  width: 100%;
+  cursor: pointer;
+  background-color: #00875508;
+  position: relative;
+  overflow: hidden;
+  height: 40px;
+  // box-sizing: content-box;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  min-width: 0;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  -webkit-animation-duration: 10ms;
+  animation-duration: 10ms;
+
+  .upload-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+
+    .upload-icon {
+      display: flex;
+      align-items: center;
+
+      .attach-file-button {
+        background-color: none;
+        border-radius: 4px;
+        padding: 5px;
+
+        &:hover {
+          background-color: #0087554d;
+        }
+      }
+    }
+
+    .upload-text {
+      margin-left: 5px;
+      font-family: bukra;
+      color: #58585b;
+      height: 20px;
+    }
+  }
+}
+
+.selectFieldContainer {
+  height: 40px;
+  border-radius: 4px 0px 0px 0px;
+
+  .MuiOutlinedInput-root {
+    background-color: #00875508;
+
+    fieldset {
+      border-color: #40a377;
+    }
+
+    &:hover fieldset {
+      border-color: #40a377;
+    }
+
+    &.Mui-focused fieldset {
+      border-color: #40a377;
+    }
+  }
+
+  .MuiSelect-select {
+    font-family: bukra;
+    padding: 8.5px;
+    color: #000000;
+    height: 20px;
+
+    &::placeholder {
+      color: #58585b;
+      opacity: 1;
+    }
+  }
+
+  .Mui-error {
+    .MuiOutlinedInput-notchedOutline {
+      border-color: #d32f2f;
+    }
+  }
+}
+
+.selectFieldContainer .MuiSelect-select ::-webkit-scrollbar {
+  display: none !important;
+}

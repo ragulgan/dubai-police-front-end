@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`NutritionCard matches snapshot with data 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-153td0s"
+  >
+    <div
+      class="MuiBox-root css-7ofbjd"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-caption bukra css-2f6h2r-MuiTypography-root"
+      >
+        Breakfast
+      </span>
+    </div>
+    <div
+      class="MuiBox-root css-1phurjn"
+    >
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(232, 143, 0); display: inline-block; margin-right: 4px;"
+        />
+        Calories 375
+      </h6>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(0, 32, 91); display: inline-block; margin-right: 4px;"
+        />
+        Protein 22.3
+      </h6>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(0, 135, 85); display: inline-block; margin-right: 4px;"
+        />
+        Carb 60
+      </h6>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(228, 0, 43); display: inline-block; margin-right: 4px;"
+        />
+        Fat 5.4
+      </h6>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-o1iywg-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+      >
+        <div
+          class="MuiBox-root css-1ao3kjb"
+        >
+          <div
+            class="MuiBox-root css-dwd3g6"
+          >
+            <img
+              alt="Oatmeal with Berries"
+              data-testid="food-image"
+              height="40"
+              src="/api/food-images/oatmeal.jpg"
+              width="40"
+            />
+          </div>
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle1 dubai-med css-xkunch-MuiTypography-root"
+            >
+              Oatmeal with Berries
+            </h6>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root css-1ao3kjb"
+        >
+          <div
+            class="MuiBox-root css-dwd3g6"
+          >
+            <labnehpita.png
+              height="130"
+              style="object-fit: cover;"
+              width="104"
+            />
+          </div>
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle1 dubai-med css-xkunch-MuiTypography-root"
+            >
+              Greek Yogurt
+            </h6>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root css-1ao3kjb"
+        >
+          <div
+            class="MuiBox-root css-dwd3g6"
+          >
+            <labnehpita.png
+              height="130"
+              style="object-fit: cover;"
+              width="104"
+            />
+          </div>
+          <div
+            class="MuiBox-root css-0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle1 dubai-med css-xkunch-MuiTypography-root"
+            >
+              Banana
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`NutritionCard matches snapshot with empty data 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-153td0s"
+  >
+    <div
+      class="MuiBox-root css-7ofbjd"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-caption bukra css-2f6h2r-MuiTypography-root"
+      >
+        Lunch
+      </span>
+    </div>
+    <div
+      class="MuiBox-root css-1phurjn"
+    >
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(232, 143, 0); display: inline-block; margin-right: 4px;"
+        />
+        Calories 0
+      </h6>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(0, 32, 91); display: inline-block; margin-right: 4px;"
+        />
+        Protein 0
+      </h6>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(0, 135, 85); display: inline-block; margin-right: 4px;"
+        />
+        Carb 0
+      </h6>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2 dubai-med css-1ilq274-MuiTypography-root"
+      >
+        <span
+          style="width: 6px; height: 6px; border-radius: 50%; background-color: rgb(228, 0, 43); display: inline-block; margin-right: 4px;"
+        />
+        Fat 0
+      </h6>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-o1iywg-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-12 css-1idn90j-MuiGrid-root"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
